@@ -1,0 +1,1 @@
+INDEX VERSION 1.131+Z:\INF2F\LIP1\Mateus\projetos\comercio\.metadata\.plugins\org.eclipse.jdt.core
